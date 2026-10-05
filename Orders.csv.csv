@@ -1,0 +1,101 @@
+Order ID,Order Date,CustomerName,State,City
+B-26001,02-02-2018,Customer1,Bihar,Patna
+B-26002,03-03-2018,Customer2,Gujarat,Ahmedabad
+B-26003,04-04-2018,Customer3,Delhi,Delhi
+B-26004,05-05-2018,Customer4,Delhi,Delhi
+B-26005,06-06-2018,Customer5,Jharkhand,Ranchi
+B-26006,07-07-2018,Customer6,Jharkhand,Ranchi
+B-26007,08-08-2018,Customer7,Bihar,Patna
+B-26008,09-09-2018,Customer8,Jharkhand,Ranchi
+B-26009,10-10-2018,Customer9,Bihar,Patna
+B-26010,11-11-2018,Customer10,Delhi,Delhi
+B-26011,12-12-2018,Customer11,Maharashtra,Pune
+B-26012,13-01-2018,Customer12,Maharashtra,Mumbai
+B-26013,14-02-2018,Customer13,Maharashtra,Mumbai
+B-26014,15-03-2018,Customer14,Maharashtra,Pune
+B-26015,16-04-2018,Customer15,Madhya Pradesh,Indore
+B-26016,17-05-2018,Customer16,Bihar,Patna
+B-26017,18-06-2018,Customer17,Madhya Pradesh,Indore
+B-26018,19-07-2018,Customer18,Maharashtra,Pune
+B-26019,20-08-2018,Customer19,Jharkhand,Ranchi
+B-26020,21-09-2018,Customer20,Madhya Pradesh,Indore
+B-26021,22-10-2018,Customer21,Bihar,Patna
+B-26022,23-11-2018,Customer22,Maharashtra,Pune
+B-26023,24-12-2018,Customer23,Jharkhand,Ranchi
+B-26024,25-01-2018,Customer24,Maharashtra,Pune
+B-26025,26-02-2018,Customer25,Uttar Pradesh,Mathura
+B-26026,27-03-2018,Customer26,Maharashtra,Pune
+B-26027,28-04-2018,Customer27,Jharkhand,Ranchi
+B-26028,01-05-2018,Customer28,Uttar Pradesh,Mathura
+B-26029,02-06-2018,Customer29,Maharashtra,Pune
+B-26030,03-07-2018,Customer30,Delhi,Delhi
+B-26031,04-08-2018,Customer31,Maharashtra,Pune
+B-26032,05-09-2018,Customer32,Bihar,Patna
+B-26033,06-10-2018,Customer33,Madhya Pradesh,Indore
+B-26034,07-11-2018,Customer34,Madhya Pradesh,Indore
+B-26035,08-12-2018,Customer35,Gujarat,Ahmedabad
+B-26036,09-01-2018,Customer36,Bihar,Patna
+B-26037,10-02-2018,Customer37,Maharashtra,Pune
+B-26038,11-03-2018,Customer38,Maharashtra,Mumbai
+B-26039,12-04-2018,Customer39,Maharashtra,Pune
+B-26040,13-05-2018,Customer40,Maharashtra,Pune
+B-26041,14-06-2018,Customer41,Uttar Pradesh,Mathura
+B-26042,15-07-2018,Customer42,Delhi,Delhi
+B-26043,16-08-2018,Customer43,Madhya Pradesh,Indore
+B-26044,17-09-2018,Customer44,Madhya Pradesh,Indore
+B-26045,18-10-2018,Customer45,Maharashtra,Mumbai
+B-26046,19-11-2018,Customer46,Gujarat,Ahmedabad
+B-26047,20-12-2018,Customer47,Bihar,Patna
+B-26048,21-01-2018,Customer48,Gujarat,Ahmedabad
+B-26049,22-02-2018,Customer49,Gujarat,Ahmedabad
+B-26050,23-03-2018,Customer50,Maharashtra,Mumbai
+B-26051,24-04-2018,Customer51,Maharashtra,Pune
+B-26052,25-05-2018,Customer52,Maharashtra,Pune
+B-26053,26-06-2018,Customer53,Jharkhand,Ranchi
+B-26054,27-07-2018,Customer54,Maharashtra,Pune
+B-26055,28-08-2018,Customer55,Madhya Pradesh,Indore
+B-26056,01-09-2018,Customer56,Uttar Pradesh,Mathura
+B-26057,02-10-2018,Customer57,Maharashtra,Pune
+B-26058,03-11-2018,Customer58,Maharashtra,Mumbai
+B-26059,04-12-2018,Customer59,Gujarat,Ahmedabad
+B-26060,05-01-2018,Customer60,Madhya Pradesh,Indore
+B-26061,06-02-2018,Customer61,Bihar,Bhagalpur
+B-26062,07-03-2018,Customer62,Maharashtra,Mumbai
+B-26063,08-04-2018,Customer63,Bihar,Patna
+B-26064,09-05-2018,Customer64,Maharashtra,Mumbai
+B-26065,10-06-2018,Customer65,Delhi,Delhi
+B-26066,11-07-2018,Customer66,Bihar,Patna
+B-26067,12-08-2018,Customer67,Madhya Pradesh,Indore
+B-26068,13-09-2018,Customer68,Gujarat,Ahmedabad
+B-26069,14-10-2018,Customer69,Uttar Pradesh,Mathura
+B-26070,15-11-2018,Customer70,Uttar Pradesh,Mathura
+B-26071,16-12-2018,Customer71,Bihar,Bhagalpur
+B-26072,17-01-2018,Customer72,Delhi,Delhi
+B-26073,18-02-2018,Customer73,Maharashtra,Pune
+B-26074,19-03-2018,Customer74,Jharkhand,Ranchi
+B-26075,20-04-2018,Customer75,Maharashtra,Mumbai
+B-26076,21-05-2018,Customer76,Delhi,Delhi
+B-26077,22-06-2018,Customer77,Maharashtra,Pune
+B-26078,23-07-2018,Customer78,Bihar,Patna
+B-26079,24-08-2018,Customer79,Bihar,Patna
+B-26080,25-09-2018,Customer80,Delhi,Delhi
+B-26081,26-10-2018,Customer81,Jharkhand,Ranchi
+B-26082,27-11-2018,Customer82,Gujarat,Ahmedabad
+B-26083,28-12-2018,Customer83,Uttar Pradesh,Mathura
+B-26084,01-01-2018,Customer84,Bihar,Bhagalpur
+B-26085,02-02-2018,Customer85,Bihar,Patna
+B-26086,03-03-2018,Customer86,Bihar,Patna
+B-26087,04-04-2018,Customer87,Uttar Pradesh,Mathura
+B-26088,05-05-2018,Customer88,Jharkhand,Ranchi
+B-26089,06-06-2018,Customer89,Uttar Pradesh,Mathura
+B-26090,07-07-2018,Customer90,Maharashtra,Mumbai
+B-26091,08-08-2018,Customer91,Gujarat,Ahmedabad
+B-26092,09-09-2018,Customer92,Bihar,Bhagalpur
+B-26093,10-10-2018,Customer93,Maharashtra,Pune
+B-26094,11-11-2018,Customer94,Maharashtra,Pune
+B-26095,12-12-2018,Customer95,Bihar,Bhagalpur
+B-26096,13-01-2018,Customer96,Maharashtra,Mumbai
+B-26097,14-02-2018,Customer97,Bihar,Bhagalpur
+B-26098,15-03-2018,Customer98,Gujarat,Ahmedabad
+B-26099,16-04-2018,Customer99,Madhya Pradesh,Indore
+B-26100,17-05-2018,Customer100,Delhi,Delhi

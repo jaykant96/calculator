@@ -1,0 +1,101 @@
+Order ID,Amount,Profit,Quantity,Category,Sub-Category,PaymentMode
+B-25600,3168,-113,11,Clothing,Saree,EMI
+B-25601,3809,-180,11,Electronics,Phones,UPI
+B-25602,1832,1037,1,Furniture,Tables,UPI
+B-25603,522,1485,2,Electronics,Phones,Credit Card
+B-25604,581,47,8,Furniture,Bookcases,COD
+B-25605,3303,264,7,Furniture,Bookcases,UPI
+B-25606,2633,-639,7,Electronics,Phones,COD
+B-25607,4193,1177,8,Electronics,Electronic Games,EMI
+B-25608,4094,422,2,Clothing,Trousers,COD
+B-25609,2110,1160,14,Furniture,Chairs,UPI
+B-25610,3221,983,8,Furniture,Bookcases,Credit Card
+B-25611,4783,1338,1,Electronics,Phones,Credit Card
+B-25612,779,1168,14,Furniture,Chairs,COD
+B-25613,54,1491,8,Furniture,Bookcases,UPI
+B-25614,3760,1207,8,Clothing,Saree,COD
+B-25615,3762,597,5,Electronics,Electronic Games,COD
+B-25616,413,1063,9,Furniture,Bookcases,COD
+B-25617,3013,75,10,Furniture,Tables,Credit Card
+B-25618,4168,973,4,Electronics,Phones,EMI
+B-25619,691,853,11,Electronics,Phones,EMI
+B-25620,4435,1493,7,Electronics,Electronic Games,EMI
+B-25621,527,-450,13,Clothing,Saree,UPI
+B-25622,3843,79,12,Clothing,Skirt,Credit Card
+B-25623,647,1411,8,Clothing,Saree,Credit Card
+B-25624,1637,-455,3,Electronics,Electronic Games,Credit Card
+B-25625,1661,528,7,Furniture,Chairs,UPI
+B-25626,3745,557,14,Electronics,Phones,EMI
+B-25627,2871,-416,7,Clothing,Kurti,COD
+B-25628,1201,264,13,Furniture,Chairs,EMI
+B-25629,5197,-91,9,Furniture,Bookcases,COD
+B-25630,3560,852,7,Clothing,Hankerchief,EMI
+B-25631,1281,296,2,Furniture,Chairs,Credit Card
+B-25632,2131,460,8,Clothing,Saree,EMI
+B-25633,904,-443,6,Electronics,Printers,UPI
+B-25634,3862,-263,3,Electronics,Printers,COD
+B-25635,653,859,5,Furniture,Bookcases,COD
+B-25636,4225,967,1,Electronics,Phones,Credit Card
+B-25637,51,1460,11,Clothing,Skirt,UPI
+B-25638,5980,-837,8,Furniture,Bookcases,COD
+B-25639,1950,419,12,Furniture,Bookcases,UPI
+B-25640,1717,-255,13,Clothing,Saree,Credit Card
+B-25641,1000,860,9,Furniture,Tables,EMI
+B-25642,4186,1151,3,Furniture,Bookcases,Credit Card
+B-25643,2705,-179,8,Furniture,Tables,UPI
+B-25644,1104,158,13,Clothing,Skirt,EMI
+B-25645,3421,131,5,Furniture,Bookcases,COD
+B-25646,3210,644,13,Electronics,Phones,COD
+B-25647,3202,-437,14,Furniture,Chairs,UPI
+B-25648,4713,608,3,Clothing,Hankerchief,UPI
+B-25649,232,-823,5,Furniture,Tables,Credit Card
+B-25650,5037,-888,14,Clothing,Kurti,Credit Card
+B-25651,686,1371,6,Clothing,Trousers,Credit Card
+B-25652,3908,-422,4,Furniture,Bookcases,EMI
+B-25653,5199,292,7,Furniture,Bookcases,UPI
+B-25654,5117,-94,6,Clothing,Kurti,UPI
+B-25655,409,159,10,Furniture,Bookcases,Credit Card
+B-25656,3342,599,4,Clothing,Hankerchief,Credit Card
+B-25657,1482,1171,14,Electronics,Phones,UPI
+B-25658,5446,-248,8,Furniture,Tables,Credit Card
+B-25659,3859,1353,5,Clothing,Kurti,COD
+B-25660,1570,-249,8,Furniture,Chairs,EMI
+B-25661,2123,272,1,Electronics,Electronic Games,Credit Card
+B-25662,130,1114,3,Electronics,Printers,Credit Card
+B-25663,2101,773,13,Furniture,Tables,EMI
+B-25664,2556,610,6,Clothing,Trousers,Credit Card
+B-25665,5140,1236,10,Electronics,Phones,Credit Card
+B-25666,598,142,14,Electronics,Electronic Games,Credit Card
+B-25667,311,115,8,Clothing,Hankerchief,EMI
+B-25668,4027,824,6,Furniture,Chairs,COD
+B-25669,1806,-169,10,Electronics,Printers,EMI
+B-25670,4286,-638,11,Clothing,Trousers,COD
+B-25671,1178,113,13,Electronics,Phones,UPI
+B-25672,94,1391,6,Clothing,Trousers,EMI
+B-25673,3198,1440,5,Furniture,Bookcases,Credit Card
+B-25674,3883,-24,4,Clothing,Saree,EMI
+B-25675,1573,1050,12,Furniture,Chairs,EMI
+B-25676,5013,-525,10,Electronics,Phones,Credit Card
+B-25677,5618,43,6,Furniture,Bookcases,Credit Card
+B-25678,4320,816,9,Furniture,Tables,EMI
+B-25679,5331,743,13,Electronics,Phones,COD
+B-25680,5068,1296,14,Clothing,Skirt,Credit Card
+B-25681,3431,1343,14,Electronics,Electronic Games,COD
+B-25682,3274,1266,11,Electronics,Phones,COD
+B-25683,2740,250,8,Clothing,Skirt,EMI
+B-25684,4667,-376,6,Electronics,Electronic Games,Credit Card
+B-25685,491,605,4,Furniture,Chairs,COD
+B-25686,5564,1352,2,Electronics,Electronic Games,EMI
+B-25687,1952,181,5,Furniture,Bookcases,UPI
+B-25688,148,601,6,Clothing,Skirt,COD
+B-25689,1064,-765,8,Electronics,Electronic Games,Credit Card
+B-25690,1862,105,13,Electronics,Phones,EMI
+B-25691,2250,1087,1,Furniture,Bookcases,COD
+B-25692,264,1427,8,Electronics,Electronic Games,Credit Card
+B-25693,245,-151,1,Furniture,Chairs,EMI
+B-25694,1050,52,13,Electronics,Electronic Games,Credit Card
+B-25695,1161,1430,6,Furniture,Bookcases,COD
+B-25696,4822,772,10,Clothing,Hankerchief,UPI
+B-25697,5365,-302,1,Electronics,Phones,EMI
+B-25698,2398,1452,4,Clothing,Skirt,UPI
+B-25699,3969,-303,1,Clothing,Kurti,EMI
